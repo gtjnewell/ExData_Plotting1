@@ -1,7 +1,7 @@
 #
 # Exploratory Data Analysis
 # Project 1
-# 2015.01.08
+# 2015.04.10
 #
 setwd("C://Users//jnewell.BI//Documents//Coursera//Exploratory Data Analysis//Project1")
 # Date;Time;Global_active_power;Global_reactive_power;Voltage;Global_intensity;Sub_metering_1;Sub_metering_2;Sub_metering_3
